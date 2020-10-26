@@ -2,6 +2,12 @@
 
 All notable changes to `laravel-imageup` will be documented in this file
 
+## 1.1.0 - 2020-09-24
+- Laravel 8 support
+
+## 1.0.9 - 2020-03-22
+- Laravel 7 support
+
 ## 1.0.7 - 2019-09-06
 - Laravel 6 support
 
